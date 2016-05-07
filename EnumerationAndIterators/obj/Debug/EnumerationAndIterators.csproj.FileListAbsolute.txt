@@ -1,0 +1,5 @@
+C:\projects\private\TestingDotNet2\EnumerationAndIterators\bin\Debug\EnumerationAndIterators.exe.config
+C:\projects\private\TestingDotNet2\EnumerationAndIterators\bin\Debug\EnumerationAndIterators.exe
+C:\projects\private\TestingDotNet2\EnumerationAndIterators\bin\Debug\EnumerationAndIterators.pdb
+C:\projects\private\TestingDotNet2\EnumerationAndIterators\obj\Debug\EnumerationAndIterators.exe
+C:\projects\private\TestingDotNet2\EnumerationAndIterators\obj\Debug\EnumerationAndIterators.pdb

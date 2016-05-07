@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Lambda\Lambda.csproj", "{CCE2E832-4112-4258-9CB5-97CBE0A19EDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerationAndIterators", "EnumerationAndIterators\EnumerationAndIterators.csproj", "{064D13AA-2580-434B-8D09-7F5780639D95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CCE2E832-4112-4258-9CB5-97CBE0A19EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCE2E832-4112-4258-9CB5-97CBE0A19EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCE2E832-4112-4258-9CB5-97CBE0A19EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{064D13AA-2580-434B-8D09-7F5780639D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064D13AA-2580-434B-8D09-7F5780639D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064D13AA-2580-434B-8D09-7F5780639D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064D13AA-2580-434B-8D09-7F5780639D95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

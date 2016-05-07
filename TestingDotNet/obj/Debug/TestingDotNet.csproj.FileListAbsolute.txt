@@ -1,2 +1,6 @@
 c:\projects\private\TestingDotNet\TestingDotNet\bin\Debug\TestingDotNet.exe.config
 C:\projects\private\TestingDotNet2\TestingDotNet\bin\Debug\TestingDotNet.exe.config
+C:\projects\private\TestingDotNet2\TestingDotNet\bin\Debug\TestingDotNet.exe
+C:\projects\private\TestingDotNet2\TestingDotNet\bin\Debug\TestingDotNet.pdb
+C:\projects\private\TestingDotNet2\TestingDotNet\obj\Debug\TestingDotNet.exe
+C:\projects\private\TestingDotNet2\TestingDotNet\obj\Debug\TestingDotNet.pdb
