@@ -1,0 +1,6 @@
+C:\projects\private\TestingDotNet2\Lambda\bin\Debug\Lambda.exe.config
+C:\projects\private\TestingDotNet2\Lambda\bin\Debug\Lambda.exe
+C:\projects\private\TestingDotNet2\Lambda\bin\Debug\Lambda.pdb
+C:\projects\private\TestingDotNet2\Lambda\obj\Debug\Lambda.csprojResolveAssemblyReference.cache
+C:\projects\private\TestingDotNet2\Lambda\obj\Debug\Lambda.exe
+C:\projects\private\TestingDotNet2\Lambda\obj\Debug\Lambda.pdb
