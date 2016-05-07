@@ -1,0 +1,6 @@
+C:\projects\private\TestingDotNet2\Delegates\bin\Debug\Delegates.exe.config
+C:\projects\private\TestingDotNet2\Delegates\bin\Debug\Delegates.exe
+C:\projects\private\TestingDotNet2\Delegates\bin\Debug\Delegates.pdb
+C:\projects\private\TestingDotNet2\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\projects\private\TestingDotNet2\Delegates\obj\Debug\Delegates.exe
+C:\projects\private\TestingDotNet2\Delegates\obj\Debug\Delegates.pdb

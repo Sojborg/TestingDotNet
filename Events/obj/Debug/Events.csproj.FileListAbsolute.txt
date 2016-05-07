@@ -1,0 +1,5 @@
+C:\projects\private\TestingDotNet2\Events\bin\Debug\Events.exe.config
+C:\projects\private\TestingDotNet2\Events\bin\Debug\Events.exe
+C:\projects\private\TestingDotNet2\Events\bin\Debug\Events.pdb
+C:\projects\private\TestingDotNet2\Events\obj\Debug\Events.exe
+C:\projects\private\TestingDotNet2\Events\obj\Debug\Events.pdb
